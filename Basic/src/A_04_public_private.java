@@ -1,12 +1,12 @@
 public class A_04_public_private {
-    public int name;
+    public String name;
     private int SSN;
 
     
-    public int getName() {
+    public String getName() {
         return name;
     }
-    public void setName(int name) {
+    public void setName(String name) {
         this.name = name;
     }
     public int getSSN() {
