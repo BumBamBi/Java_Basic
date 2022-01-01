@@ -5,10 +5,10 @@ public class A_03_OOP {
         
         // set
         mycar.setCarName("LEE");
-        String tempName = mycar.getCarName();
+        String carName = mycar.getCarName();
         
         // 출력
-        System.out.println(tempName);
+        System.out.println(carName);
 
         /* ------------------------------------------------- */
         // 상속
@@ -16,10 +16,15 @@ public class A_03_OOP {
         
         // set
         mytaxi.setFare(1000);
-        int tempFare = mytaxi.getFare();
+        int taxiFare = mytaxi.getFare();
+
+        mytaxi.setCarName("YOO");
+        String taxiName = mytaxi.getCarName();
 
         // 출력
-        System.out.println(tempFare);
+        System.out.println(taxiFare);
+        System.out.println(taxiName);
+        
 
 
     }
