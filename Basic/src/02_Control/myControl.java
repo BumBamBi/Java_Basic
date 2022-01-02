@@ -1,4 +1,4 @@
-public class A_02_control {
+public class myControl {
     public static void main(String[] args) throws Exception {
         int a = 1;
 
