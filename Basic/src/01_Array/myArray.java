@@ -1,4 +1,4 @@
-public class A_01_array {
+public class myArray {
     public static void main(String[] args) throws Exception {
         int[] arr1;
         arr1 = new int[5];
