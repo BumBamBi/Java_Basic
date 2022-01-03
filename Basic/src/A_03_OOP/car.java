@@ -1,4 +1,5 @@
-public class A_03_OOP_car {
+package A_03_OOP;
+public class car {
     String carName;
     int curSpeed;
 

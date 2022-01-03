@@ -1,7 +1,8 @@
-public class A_03_OOP {
+package A_03_OOP;
+public class mainClass {
     public static void main(String[] args) throws Exception {
         // 객체 생성
-        A_03_OOP_car mycar = new A_03_OOP_car();
+        car mycar = new car();
         
         // set
         mycar.setCarName("LEE");
@@ -12,7 +13,7 @@ public class A_03_OOP {
 
         /* ------------------------------------------------- */
         // 상속
-        A_03_OOP_car_taxi mytaxi = new A_03_OOP_car_taxi();
+        taxi mytaxi = new taxi();
         
         // set
         mytaxi.setFare(1000);

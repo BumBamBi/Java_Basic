@@ -1,4 +1,5 @@
-public class A_03_OOP_car_taxi extends A_03_OOP_car {
+package A_03_OOP;
+public class taxi extends car {
     int fare;
 
     public int getFare() {
