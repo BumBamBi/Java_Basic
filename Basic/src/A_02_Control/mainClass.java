@@ -1,4 +1,5 @@
-public class myControl {
+package A_02_Control;
+public class mainClass {
     public static void main(String[] args) throws Exception {
         int a = 1;
 
