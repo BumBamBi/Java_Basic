@@ -1,4 +1,5 @@
-public class myArray {
+package A_01_Array;
+public class mainClass {
     public static void main(String[] args) throws Exception {
         int[] arr1;
         arr1 = new int[5];
