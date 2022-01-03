@@ -1,4 +1,5 @@
 package A_05_Constructor;
+
 public class mainClass {
     public String name;
     private int SSN;
