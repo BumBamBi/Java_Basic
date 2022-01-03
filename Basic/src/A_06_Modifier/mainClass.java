@@ -1,4 +1,5 @@
-public class A_06_Modifier {
+package A_06_Modifier;
+public class mainClass {
     
     // 클래스에 사용되는 접근자
     // public   - 모두 접근 가능

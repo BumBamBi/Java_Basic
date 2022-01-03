@@ -1,8 +1,9 @@
-public class A_05_Constructor {
+package A_05_Constructor;
+public class mainClass {
     public String name;
     private int SSN;
 
-    public A_05_Constructor(String name, int SSN){
+    public mainClass(String name, int SSN){
         this.name = "init name";
         this.SSN = 1234;
     }

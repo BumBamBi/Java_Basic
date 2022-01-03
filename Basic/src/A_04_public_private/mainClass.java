@@ -1,4 +1,5 @@
-public class A_04_public_private {
+package A_04_public_private;
+public class mainClass {
     public String name;
     private int SSN;
 
