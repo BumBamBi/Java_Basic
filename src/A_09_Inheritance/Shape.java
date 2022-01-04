@@ -1,7 +1,5 @@
 package A_09_Inheritance;
 
-import java.util.stream.StreamSupport;
-
 public class Shape {
     int x = 0;
     int y = 0;
