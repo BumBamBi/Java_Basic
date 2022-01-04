@@ -15,15 +15,6 @@ public class mainClass {
     // 이름을 가지고있는것고 이름을 가지지 않는 것으로 나뉨
     // 활용범위가 메서드 블록 내부로 제한되어 지역변수와 성격이 비슷함
 
-
-    // 이름이 없는 내부클래스를 위해 클래스를 인자로 넣는 식으로 구현
-    public static void watchTV(TV tv){
-        tv.powerOn();
-        tv.powerOff();
-        tv.volumeUp();
-        tv.volumeDown();
-    }
-
     public static void main(String args[]){
         // static이 없는 내부 클래스
         // 내부클래스가 생성되기 위해선 외부클래스의 객체가 반드시 필요함
